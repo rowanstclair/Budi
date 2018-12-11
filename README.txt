@@ -5,7 +5,8 @@ HELLO ROWAN!
 
              _____
            .'~ ~ ~`.
-           |  a a  |
+           |  a a  | 
+	     o > o
            `.  ~  .'
        .----'(>o<)`----.
       ( S             S )
@@ -18,3 +19,4 @@ HELLO ROWAN!
        `.___.'    `.___.'
 
 NOT THE GUMDROP BUTTONS!!!
+
